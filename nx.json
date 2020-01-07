@@ -22,6 +22,9 @@
     },
     "member-portal": {
       "tags": []
+    },
+    "ui": {
+      "tags": []
     }
   }
 }
