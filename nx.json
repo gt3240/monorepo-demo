@@ -1,0 +1,27 @@
+{
+  "npmScope": "monorepo-demo",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": {
+      "dependencies": "*",
+      "devDependencies": "*"
+    },
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "provider-portal-e2e": {
+      "tags": []
+    },
+    "provider-portal": {
+      "tags": []
+    },
+    "member-portal-e2e": {
+      "tags": []
+    },
+    "member-portal": {
+      "tags": []
+    }
+  }
+}
