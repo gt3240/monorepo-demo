@@ -25,6 +25,9 @@
     },
     "ui": {
       "tags": []
+    },
+    "utilities": {
+      "tags": []
     }
   }
 }
